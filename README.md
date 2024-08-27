@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I am Steffen 👋
+
+🌱 I’m currently learning to code in my second bootcamp - all I have achieved so far can be seen on my personal portfolio https://steffen-schanze.de/
+More information about me on https://www.linkedin.com/in/steffen-schanze/
 
 <!--
 **steffenjoachim/steffenjoachim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
